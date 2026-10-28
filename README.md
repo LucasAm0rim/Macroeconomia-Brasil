@@ -1,4 +1,4 @@
-# Radar Macroeconômico — Brasil e Goiás (2021–2025)
+# Macroeconomia— Brasil e Goiás (2021–2025)
 
 Projeto de análise econômica aplicada que organiza indicadores de inflação, política monetária, atividade econômica e mercado de trabalho para o Brasil e Goiás, com dados de janeiro de 2021 a dezembro de 2025.
 
