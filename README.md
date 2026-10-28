@@ -17,8 +17,7 @@ Construir uma base rastreável e uma visão executiva para observar a evolução
 
 ## Arquivo principal
 
-📊 **[Abrir ou baixar a planilha Excel](./Radar_Macroeconomico_Brasil_Goias_2021_2025.xlsx)**
-
+📊 **[Abrir ou baixar a planilha Excel](./Macroeconomia%20Brasil%20e%20Goias%2020212025.xlsx)**
 O arquivo contém as seguintes abas:
 
 | Aba | Conteúdo |
