@@ -17,7 +17,7 @@ Construir uma base rastreável e uma visão executiva para observar a evolução
 
 ## Arquivo principal
 
-📊 **[Abrir ou baixar a planilha Excel](./Macroeconomia%20Brasil%20e%20Goias%2020212025.xlsx)**
+📥 [BAIXAR PLANILHA EXCEL](https://github.com/LucasAm0rim/Macroeconomia-Brasil/raw/refs/heads/main/Macroeconomia%20Brasil%20e%20Goias%2020212025.xlsx?download=1)
 O arquivo contém as seguintes abas:
 
 | Aba | Conteúdo |
